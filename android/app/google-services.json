@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13131623008",
+    "project_id": "loja-estudo",
+    "storage_bucket": "loja-estudo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13131623008:android:d1786dfd5172b030d5f105",
+        "android_client_info": {
+          "package_name": "com.santanatec.loja_estudo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13131623008-nbjukn9ijdsps2s222h0umico22ik5n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoY8cn2QovT8RkQyfBiGDHyIuPBAKb1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13131623008-nbjukn9ijdsps2s222h0umico22ik5n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
